@@ -7,6 +7,29 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3D12AD3718EC6DED00233760 /* ViewHelper.m in Sources */ = {isa = PBXBuildFile; fileRef = 3D12AD3618EC6DED00233760 /* ViewHelper.m */; };
+		3D439A34191F6E0A00338165 /* ToolBarView.m in Sources */ = {isa = PBXBuildFile; fileRef = 3D439A33191F6E0A00338165 /* ToolBarView.m */; };
+		3D439A3A191F9E2900338165 /* CommonSettingsiew.m in Sources */ = {isa = PBXBuildFile; fileRef = 3D439A39191F9E2900338165 /* CommonSettingsiew.m */; };
+		3D439A3D191F9E4800338165 /* ProgressSettingsView.m in Sources */ = {isa = PBXBuildFile; fileRef = 3D439A3C191F9E4800338165 /* ProgressSettingsView.m */; };
+		3D43CB3A18FAD6FC0031F3DC /* 盘龙.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3D43CB3218FAD6FC0031F3DC /* 盘龙.txt */; };
+		3D43CB3B18FAD6FC0031F3DC /* 盘龙.txt.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3D43CB3318FAD6FC0031F3DC /* 盘龙.txt.jpg */; };
+		3D43CB3E18FAD6FC0031F3DC /* 天珠变.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3D43CB3618FAD6FC0031F3DC /* 天珠变.txt */; };
+		3D43CB3F18FAD6FC0031F3DC /* 天珠变.txt.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3D43CB3718FAD6FC0031F3DC /* 天珠变.txt.jpg */; };
+		3D43CB4018FAD6FC0031F3DC /* 遮天.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3D43CB3818FAD6FC0031F3DC /* 遮天.txt */; };
+		3D43CB4118FAD6FC0031F3DC /* 遮天.txt.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3D43CB3918FAD6FC0031F3DC /* 遮天.txt.jpg */; };
+		3D627BC719211D5C009D537E /* CFNetwork.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3D627BC219211A2F009D537E /* CFNetwork.framework */; };
+		3D627BC819211D65009D537E /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3D627BC019211A23009D537E /* QuartzCore.framework */; };
+		3D665BA818F3DB9100F56085 /* BookShelfController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3D665BA618F3DB9100F56085 /* BookShelfController.m */; };
+		3D665BAD18F3EC5C00F56085 /* BookCellView.m in Sources */ = {isa = PBXBuildFile; fileRef = 3D665BAC18F3EC5C00F56085 /* BookCellView.m */; };
+		3D665BAF18F3FB9600F56085 /* 星辰变.txt.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3D665BAE18F3FB9600F56085 /* 星辰变.txt.jpg */; };
+		3D665BB218F3FBDB00F56085 /* Resource.m in Sources */ = {isa = PBXBuildFile; fileRef = 3D665BB118F3FBDB00F56085 /* Resource.m */; };
+		3D7DBC94191E8DC3007116FF /* TitleBar.m in Sources */ = {isa = PBXBuildFile; fileRef = 3D7DBC93191E8DC3007116FF /* TitleBar.m */; };
+		3D8CD68018EBD6130086E896 /* PaperController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3D8CD67F18EBD6130086E896 /* PaperController.m */; };
+		3D8CD69518EBE46B0086E896 /* 星辰变.txt in Resources */ = {isa = PBXBuildFile; fileRef = 3D8CD69118EBE46B0086E896 /* 星辰变.txt */; };
+		3D8CD69918EC137B0086E896 /* PageCurlController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3D8CD69818EC137B0086E896 /* PageCurlController.m */; };
+		3D8CD69C18EC13970086E896 /* PageCurlView.m in Sources */ = {isa = PBXBuildFile; fileRef = 3D8CD69B18EC13970086E896 /* PageCurlView.m */; };
+		3D8CD69F18EC1B100086E896 /* TypeSetter.m in Sources */ = {isa = PBXBuildFile; fileRef = 3D8CD69E18EC1B100086E896 /* TypeSetter.m */; };
+		3D8CD6A218EC22E60086E896 /* PageView.m in Sources */ = {isa = PBXBuildFile; fileRef = 3D8CD6A118EC22E60086E896 /* PageView.m */; };
 		3DCB515418E6A77000FCC154 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3DCB515318E6A77000FCC154 /* Foundation.framework */; };
 		3DCB515618E6A77000FCC154 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3DCB515518E6A77000FCC154 /* CoreGraphics.framework */; };
 		3DCB515818E6A77000FCC154 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3DCB515718E6A77000FCC154 /* UIKit.framework */; };
@@ -19,6 +42,9 @@
 		3DCB516F18E6A77000FCC154 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3DCB515718E6A77000FCC154 /* UIKit.framework */; };
 		3DCB517718E6A77000FCC154 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 3DCB517518E6A77000FCC154 /* InfoPlist.strings */; };
 		3DCB517918E6A77000FCC154 /* BReaderTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 3DCB517818E6A77000FCC154 /* BReaderTests.m */; };
+		3DCB518518E6A7F900FCC154 /* BookUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = 3DCB518418E6A7F900FCC154 /* BookUtils.m */; };
+		3DCB518918E6A9D600FCC154 /* RegexKitLite.m in Sources */ = {isa = PBXBuildFile; fileRef = 3DCB518818E6A9D600FCC154 /* RegexKitLite.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		3DCB518B18E6ABC100FCC154 /* libicucore.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 3DCB518A18E6ABC100FCC154 /* libicucore.dylib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -32,6 +58,42 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		3D12AD3518EC6DED00233760 /* ViewHelper.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewHelper.h; sourceTree = "<group>"; };
+		3D12AD3618EC6DED00233760 /* ViewHelper.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewHelper.m; sourceTree = "<group>"; };
+		3D439A32191F6E0A00338165 /* ToolBarView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ToolBarView.h; sourceTree = "<group>"; };
+		3D439A33191F6E0A00338165 /* ToolBarView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ToolBarView.m; sourceTree = "<group>"; };
+		3D439A38191F9E2900338165 /* CommonSettingsiew.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CommonSettingsiew.h; sourceTree = "<group>"; };
+		3D439A39191F9E2900338165 /* CommonSettingsiew.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CommonSettingsiew.m; sourceTree = "<group>"; };
+		3D439A3B191F9E4800338165 /* ProgressSettingsView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ProgressSettingsView.h; sourceTree = "<group>"; };
+		3D439A3C191F9E4800338165 /* ProgressSettingsView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ProgressSettingsView.m; sourceTree = "<group>"; };
+		3D43CB3218FAD6FC0031F3DC /* 盘龙.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = "盘龙.txt"; path = "BReader/books/盘龙.txt"; sourceTree = "<group>"; };
+		3D43CB3318FAD6FC0031F3DC /* 盘龙.txt.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "盘龙.txt.jpg"; path = "BReader/books/盘龙.txt.jpg"; sourceTree = "<group>"; };
+		3D43CB3618FAD6FC0031F3DC /* 天珠变.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = "天珠变.txt"; path = "BReader/books/天珠变.txt"; sourceTree = "<group>"; };
+		3D43CB3718FAD6FC0031F3DC /* 天珠变.txt.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "天珠变.txt.jpg"; path = "BReader/books/天珠变.txt.jpg"; sourceTree = "<group>"; };
+		3D43CB3818FAD6FC0031F3DC /* 遮天.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = "遮天.txt"; path = "BReader/books/遮天.txt"; sourceTree = "<group>"; };
+		3D43CB3918FAD6FC0031F3DC /* 遮天.txt.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "遮天.txt.jpg"; path = "BReader/books/遮天.txt.jpg"; sourceTree = "<group>"; };
+		3D627BC019211A23009D537E /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
+		3D627BC219211A2F009D537E /* CFNetwork.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CFNetwork.framework; path = System/Library/Frameworks/CFNetwork.framework; sourceTree = SDKROOT; };
+		3D665BA518F3DB9100F56085 /* BookShelfController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BookShelfController.h; sourceTree = "<group>"; };
+		3D665BA618F3DB9100F56085 /* BookShelfController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BookShelfController.m; sourceTree = "<group>"; };
+		3D665BAB18F3EC5C00F56085 /* BookCellView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BookCellView.h; sourceTree = "<group>"; };
+		3D665BAC18F3EC5C00F56085 /* BookCellView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BookCellView.m; sourceTree = "<group>"; };
+		3D665BAE18F3FB9600F56085 /* 星辰变.txt.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "星辰变.txt.jpg"; path = "BReader/books/星辰变.txt.jpg"; sourceTree = "<group>"; };
+		3D665BB018F3FBDB00F56085 /* Resource.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Resource.h; sourceTree = "<group>"; };
+		3D665BB118F3FBDB00F56085 /* Resource.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Resource.m; sourceTree = "<group>"; };
+		3D7DBC92191E8DC3007116FF /* TitleBar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TitleBar.h; sourceTree = "<group>"; };
+		3D7DBC93191E8DC3007116FF /* TitleBar.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TitleBar.m; sourceTree = "<group>"; };
+		3D8CD67E18EBD6130086E896 /* PaperController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PaperController.h; sourceTree = "<group>"; };
+		3D8CD67F18EBD6130086E896 /* PaperController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PaperController.m; sourceTree = "<group>"; };
+		3D8CD69118EBE46B0086E896 /* 星辰变.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = "星辰变.txt"; path = "BReader/books/星辰变.txt"; sourceTree = "<group>"; };
+		3D8CD69718EC137B0086E896 /* PageCurlController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PageCurlController.h; sourceTree = "<group>"; };
+		3D8CD69818EC137B0086E896 /* PageCurlController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PageCurlController.m; sourceTree = "<group>"; };
+		3D8CD69A18EC13970086E896 /* PageCurlView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PageCurlView.h; sourceTree = "<group>"; };
+		3D8CD69B18EC13970086E896 /* PageCurlView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PageCurlView.m; sourceTree = "<group>"; };
+		3D8CD69D18EC1B100086E896 /* TypeSetter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TypeSetter.h; sourceTree = "<group>"; };
+		3D8CD69E18EC1B100086E896 /* TypeSetter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TypeSetter.m; sourceTree = "<group>"; };
+		3D8CD6A018EC22E60086E896 /* PageView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PageView.h; sourceTree = "<group>"; };
+		3D8CD6A118EC22E60086E896 /* PageView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PageView.m; sourceTree = "<group>"; };
 		3DCB515018E6A77000FCC154 /* BReader.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BReader.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3DCB515318E6A77000FCC154 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		3DCB515518E6A77000FCC154 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -48,6 +110,11 @@
 		3DCB517418E6A77000FCC154 /* BReaderTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "BReaderTests-Info.plist"; sourceTree = "<group>"; };
 		3DCB517618E6A77000FCC154 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		3DCB517818E6A77000FCC154 /* BReaderTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BReaderTests.m; sourceTree = "<group>"; };
+		3DCB518318E6A7F900FCC154 /* BookUtils.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BookUtils.h; sourceTree = "<group>"; };
+		3DCB518418E6A7F900FCC154 /* BookUtils.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BookUtils.m; sourceTree = "<group>"; };
+		3DCB518718E6A9D600FCC154 /* RegexKitLite.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RegexKitLite.h; sourceTree = "<group>"; };
+		3DCB518818E6A9D600FCC154 /* RegexKitLite.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RegexKitLite.m; sourceTree = "<group>"; };
+		3DCB518A18E6ABC100FCC154 /* libicucore.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libicucore.dylib; path = usr/lib/libicucore.dylib; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +122,9 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3D627BC819211D65009D537E /* QuartzCore.framework in Frameworks */,
+				3D627BC719211D5C009D537E /* CFNetwork.framework in Frameworks */,
+				3DCB518B18E6ABC100FCC154 /* libicucore.dylib in Frameworks */,
 				3DCB515618E6A77000FCC154 /* CoreGraphics.framework in Frameworks */,
 				3DCB515818E6A77000FCC154 /* UIKit.framework in Frameworks */,
 				3DCB515418E6A77000FCC154 /* Foundation.framework in Frameworks */,
@@ -74,9 +144,68 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		3D8CD67B18EBD55B0086E896 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				3D8CD69718EC137B0086E896 /* PageCurlController.h */,
+				3D8CD69818EC137B0086E896 /* PageCurlController.m */,
+				3D8CD67E18EBD6130086E896 /* PaperController.h */,
+				3D8CD67F18EBD6130086E896 /* PaperController.m */,
+				3D665BA518F3DB9100F56085 /* BookShelfController.h */,
+				3D665BA618F3DB9100F56085 /* BookShelfController.m */,
+			);
+			name = Controllers;
+			sourceTree = "<group>";
+		};
+		3D8CD68D18EBE43E0086E896 /* Books */ = {
+			isa = PBXGroup;
+			children = (
+				3D43CB3218FAD6FC0031F3DC /* 盘龙.txt */,
+				3D43CB3318FAD6FC0031F3DC /* 盘龙.txt.jpg */,
+				3D43CB3618FAD6FC0031F3DC /* 天珠变.txt */,
+				3D43CB3718FAD6FC0031F3DC /* 天珠变.txt.jpg */,
+				3D43CB3818FAD6FC0031F3DC /* 遮天.txt */,
+				3D43CB3918FAD6FC0031F3DC /* 遮天.txt.jpg */,
+				3D665BAE18F3FB9600F56085 /* 星辰变.txt.jpg */,
+				3D8CD69118EBE46B0086E896 /* 星辰变.txt */,
+			);
+			name = Books;
+			sourceTree = "<group>";
+		};
+		3D8CD69618EC13270086E896 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				3D8CD6A018EC22E60086E896 /* PageView.h */,
+				3D8CD6A118EC22E60086E896 /* PageView.m */,
+				3D8CD69A18EC13970086E896 /* PageCurlView.h */,
+				3D8CD69B18EC13970086E896 /* PageCurlView.m */,
+				3D12AD3518EC6DED00233760 /* ViewHelper.h */,
+				3D12AD3618EC6DED00233760 /* ViewHelper.m */,
+				3D665BAB18F3EC5C00F56085 /* BookCellView.h */,
+				3D665BAC18F3EC5C00F56085 /* BookCellView.m */,
+				3D7DBC92191E8DC3007116FF /* TitleBar.h */,
+				3D7DBC93191E8DC3007116FF /* TitleBar.m */,
+				3D439A32191F6E0A00338165 /* ToolBarView.h */,
+				3D439A33191F6E0A00338165 /* ToolBarView.m */,
+				3D439A38191F9E2900338165 /* CommonSettingsiew.h */,
+				3D439A39191F9E2900338165 /* CommonSettingsiew.m */,
+				3D439A3B191F9E4800338165 /* ProgressSettingsView.h */,
+				3D439A3C191F9E4800338165 /* ProgressSettingsView.m */,
+			);
+			name = Views;
+			sourceTree = "<group>";
+		};
+		3DC6E609190FE01D00B7CA39 /* data */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = data;
+			sourceTree = "<group>";
+		};
 		3DCB514718E6A77000FCC154 = {
 			isa = PBXGroup;
 			children = (
+				3D8CD68D18EBE43E0086E896 /* Books */,
 				3DCB515918E6A77000FCC154 /* BReader */,
 				3DCB517218E6A77000FCC154 /* BReaderTests */,
 				3DCB515218E6A77000FCC154 /* Frameworks */,
@@ -96,6 +225,9 @@
 		3DCB515218E6A77000FCC154 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				3D627BC219211A2F009D537E /* CFNetwork.framework */,
+				3D627BC019211A23009D537E /* QuartzCore.framework */,
+				3DCB518A18E6ABC100FCC154 /* libicucore.dylib */,
 				3DCB515318E6A77000FCC154 /* Foundation.framework */,
 				3DCB515518E6A77000FCC154 /* CoreGraphics.framework */,
 				3DCB515718E6A77000FCC154 /* UIKit.framework */,
@@ -107,6 +239,11 @@
 		3DCB515918E6A77000FCC154 /* BReader */ = {
 			isa = PBXGroup;
 			children = (
+				3DC6E609190FE01D00B7CA39 /* data */,
+				3DCB518618E6A9B300FCC154 /* Regex */,
+				3DCB518218E6A77A00FCC154 /* Utils */,
+				3D8CD69618EC13270086E896 /* Views */,
+				3D8CD67B18EBD55B0086E896 /* Controllers */,
 				3DCB516218E6A77000FCC154 /* AppDelegate.h */,
 				3DCB516318E6A77000FCC154 /* AppDelegate.m */,
 				3DCB516518E6A77000FCC154 /* Images.xcassets */,
@@ -142,6 +279,28 @@
 				3DCB517518E6A77000FCC154 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		3DCB518218E6A77A00FCC154 /* Utils */ = {
+			isa = PBXGroup;
+			children = (
+				3D8CD69D18EC1B100086E896 /* TypeSetter.h */,
+				3D8CD69E18EC1B100086E896 /* TypeSetter.m */,
+				3DCB518318E6A7F900FCC154 /* BookUtils.h */,
+				3DCB518418E6A7F900FCC154 /* BookUtils.m */,
+				3D665BB018F3FBDB00F56085 /* Resource.h */,
+				3D665BB118F3FBDB00F56085 /* Resource.m */,
+			);
+			name = Utils;
+			sourceTree = "<group>";
+		};
+		3DCB518618E6A9B300FCC154 /* Regex */ = {
+			isa = PBXGroup;
+			children = (
+				3DCB518718E6A9D600FCC154 /* RegexKitLite.h */,
+				3DCB518818E6A9D600FCC154 /* RegexKitLite.m */,
+			);
+			name = Regex;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -190,6 +349,9 @@
 			attributes = {
 				LastUpgradeCheck = 0510;
 				TargetAttributes = {
+					3DCB514F18E6A77000FCC154 = {
+						DevelopmentTeam = HTS5RJFQNL;
+					};
 					3DCB516A18E6A77000FCC154 = {
 						TestTargetID = 3DCB514F18E6A77000FCC154;
 					};
@@ -218,7 +380,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3D43CB3E18FAD6FC0031F3DC /* 天珠变.txt in Resources */,
+				3D43CB3B18FAD6FC0031F3DC /* 盘龙.txt.jpg in Resources */,
+				3D43CB4118FAD6FC0031F3DC /* 遮天.txt.jpg in Resources */,
+				3D43CB3A18FAD6FC0031F3DC /* 盘龙.txt in Resources */,
+				3D43CB3F18FAD6FC0031F3DC /* 天珠变.txt.jpg in Resources */,
+				3D43CB4018FAD6FC0031F3DC /* 遮天.txt in Resources */,
 				3DCB515E18E6A77000FCC154 /* InfoPlist.strings in Resources */,
+				3D665BAF18F3FB9600F56085 /* 星辰变.txt.jpg in Resources */,
+				3D8CD69518EBE46B0086E896 /* 星辰变.txt in Resources */,
 				3DCB516618E6A77000FCC154 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -238,8 +408,23 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3D12AD3718EC6DED00233760 /* ViewHelper.m in Sources */,
+				3D8CD69F18EC1B100086E896 /* TypeSetter.m in Sources */,
+				3D8CD6A218EC22E60086E896 /* PageView.m in Sources */,
+				3D8CD69918EC137B0086E896 /* PageCurlController.m in Sources */,
+				3D439A3D191F9E4800338165 /* ProgressSettingsView.m in Sources */,
+				3D439A3A191F9E2900338165 /* CommonSettingsiew.m in Sources */,
+				3DCB518518E6A7F900FCC154 /* BookUtils.m in Sources */,
 				3DCB516418E6A77000FCC154 /* AppDelegate.m in Sources */,
+				3D439A34191F6E0A00338165 /* ToolBarView.m in Sources */,
+				3DCB518918E6A9D600FCC154 /* RegexKitLite.m in Sources */,
+				3D8CD69C18EC13970086E896 /* PageCurlView.m in Sources */,
+				3D8CD68018EBD6130086E896 /* PaperController.m in Sources */,
+				3D665BA818F3DB9100F56085 /* BookShelfController.m in Sources */,
+				3D7DBC94191E8DC3007116FF /* TitleBar.m in Sources */,
+				3D665BB218F3FBDB00F56085 /* Resource.m in Sources */,
 				3DCB516018E6A77000FCC154 /* main.m in Sources */,
+				3D665BAD18F3EC5C00F56085 /* BookCellView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -356,10 +541,22 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(SYSTEM_APPS_DIR)/Reveal.app/Contents/SharedSupport/iOS-Libraries",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "BReader/BReader-Prefix.pch";
 				INFOPLIST_FILE = "BReader/BReader-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(SYSTEM_APPS_DIR)/Reveal.app/Contents/SharedSupport/iOS-Libraries",
+				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -369,10 +566,22 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(SYSTEM_APPS_DIR)/Reveal.app/Contents/SharedSupport/iOS-Libraries",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "BReader/BReader-Prefix.pch";
 				INFOPLIST_FILE = "BReader/BReader-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(SYSTEM_APPS_DIR)/Reveal.app/Contents/SharedSupport/iOS-Libraries",
+				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -436,6 +645,7 @@
 				3DCB517E18E6A77000FCC154 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		3DCB517F18E6A77000FCC154 /* Build configuration list for PBXNativeTarget "BReaderTests" */ = {
 			isa = XCConfigurationList;
@@ -444,6 +654,7 @@
 				3DCB518118E6A77000FCC154 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
