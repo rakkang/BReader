@@ -3,6 +3,8 @@ BReader
 
 iPhone 上的小说阅读器。
 
+### [Swift 版本阅读器](https://github.com/rakkang/SwiftReader)
+
 软件截图：
 ---
 
